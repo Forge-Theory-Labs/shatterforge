@@ -60,3 +60,9 @@ Contributions are welcome! We believe in building a strong community to help Sha
 ## License
 
 This project is licensed under the terms of the `LICENSE` file.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
